@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\datvu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\datvu\\.nuget\\packages"
+    ]
+  }
+}
